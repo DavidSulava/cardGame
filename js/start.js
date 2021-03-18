@@ -1,6 +1,6 @@
-import Deck        from '/js/classes/Deck.js';
-import Rectangle   from '/js/classes/Rectangle.js';
-import ResetButton from '/js/classes/ResetButton.js';
+import Deck        from 'cardGame/js/classes/Deck.js';
+import Rectangle   from 'cardGame/js/classes/Rectangle.js';
+import ResetButton from 'cardGame/js/classes/ResetButton.js';
 import preset      from './coordinates.js';
 
 

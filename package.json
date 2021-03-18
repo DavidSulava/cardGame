@@ -1,0 +1,23 @@
+{
+  "name": "card-game",
+  "version": "1.0.0",
+  "description": "Манипуляции с колодой карт.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "deploy": "gh-pages -d build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DavidSulava/cardGame.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DavidSulava/cardGame/issues"
+  },
+  "homepage": "https://github.com/DavidSulava/cardGame#readme",
+  "devDependencies": {
+    "gh-pages": "^3.1.0"
+  }
+}
