@@ -10,10 +10,10 @@ window.onload = ()=>{
         resizeTo : window,
     });
     app.sortableChildren  = true;
-    app.loader.add('front' , '../img/front.jpg')
-              .add('back'  , '../img/back.png')
-              .add('button', '../img/button.png')
-              .add('table' , '../img/table.jpg')
+    app.loader.add('front' , '/cardGame/img/front.jpg')
+              .add('back'  , '/cardGame/img/back.png')
+              .add('button', '/cardGame/img/button.png')
+              .add('table' , '/cardGame/img/table.jpg')
               .load(setup);
 
 
